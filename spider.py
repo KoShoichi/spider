@@ -8,55 +8,37 @@ import xlwt
 import sqlite3
 
 
-# step1: scrape the website
-# step2: analyze data one by one
-# step3: save data
-
-def main():
-    baseurl  = "https://movie.douban.com/top250?start="
-    datalist = getData(baseurl)
-    savepath = ".\\doubanmovietop250.xls"
-    #saveData(savepath)
-    #askURL(baseurl)
-
-#step 1 and 2
-def getData(baseurl):
-    datalist = []
-    for i in range(0,10):    #get page number in 10 times
-        url = baseurl + str(i*25)
-        html = askURL(url)   #save original data get from web
-
-    # 2. analyze one by one
-
-    return datalist
-
-#get content from dedicated url
-def askURL(url):
-    head = {
-        "User-Agent": "Mozilla / 5.0(Macintosh; Intel Mac OS X 10_15_6) AppleWebKit / 537.36(KHTML, like Gecko) Chrome/ 85.0 .4183 .83 Safari / 537.36"
-    }
-                #agent, inform we are a browser but not a python program
-
-    request = urllib.request.Request(url, headers=head)
+def gethtml(url, code):
+    baseurl = url + code
+    head = {"User-Agent": "Mozilla / 5.0(Macintosh; Intel Mac OS X 10_15_6) AppleWebKit / 537.36(KHTML, like Gecko) Chrome/ 85.0 .4183 .83 Safari / 537.36"}
+    request = urllib.request.Request(baseurl, headers=head)
     html = ""
     try:
         response = urllib.request.urlopen(request)
-        html = response.read().decode("utf-8")
-        print(html)
-    except urllib.error.URLError as e:
-        if hasattr(e,"code"):
+        html = response.read().decode('utf-8')
+
+        return html
+    except urllib.error.HTTPError as e:
+        if hasattr(e, 'code'):
             print(e.code)
-        if hasattr(e,"reason"):
+        if hasattr(e, 'reason'):
             print(e.reason)
 
-    return html
+def dataOut(html):
+    soup = BeautifulSoup(html, 'html.parser')
 
+    with open('attribute_html.txt', 'w', encoding='utf-8') as f:
+        print(html, file=f)
 
-
-#step 3
-def saveData(savepath):
-    print("nothing\n")
+    with open('attribute.txt', 'w', encoding='utf-8') as f:
+        for element in soup.find_all("h2"):
+            print(element.text, file=f)
+        for element in soup.find_all('td', limit=2):
+            print(element.text, file=f)
 
 
 if __name__ == "__main__":
-    main()
+    url = "https://xn--vckya7nx51ik9ay55a3l3a.com/companies/"
+    code = str(1973)
+    html = gethtml(url, code)
+    dataOut(html)
