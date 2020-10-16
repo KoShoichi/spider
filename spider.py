@@ -96,11 +96,11 @@ def passdata_stockholder(html,url):
     #stockholder of the company
     startpoint = soup.find("dt",class_="companies_title",string="従業員数")
     for element in startpoint.find_all_previous(lambda tag: tag.name == 'td' and tag.get('class') == ['right']):
-        pass_to_infolist_1(element.text.strip())
+        pass_to_infolist_1(element.text.strip().replace("\n",""))
         element = element.find_previous("td")
-        pass_to_infolist_1(element.text.strip())
+        pass_to_infolist_1(element.text.strip().replace("\n",""))
         element = element.find_previous("td")
-        pass_to_infolist_1(element.text.strip())
+        pass_to_infolist_1(element.text.strip().replace("\n",""))
 
     #出資先上場企業
     startpoint = soup.find("th",string="直接持分比率")

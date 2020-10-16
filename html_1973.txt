@@ -22,7 +22,7 @@
     <link rel="canonical" href="https://xn--vckya7nx51ik9ay55a3l3a.com/companies/1973">
 
     <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="UcSErpQ/2nf262yeXw0jCMVZZGXPa2iUH0fFA1vplAYha00Mf2rqe3F4NbdfKrf27WIgaQbfYgltvCl2WR8dwg==" />
+<meta name="csrf-token" content="hBU0oLKWzZnz40PcLVovwOn7PFyvHFReP2NrlLxHl+TD01U5T5jo3stCnKzKBAVls+LFpHPETWwE0FKcG2QPRg==" />
 
     <script src="//www.google.com/jsapi" defer="defer"></script>
 <script src="//8weld9rqz5.user-space.cdn.idcfcloud.net/assets/chartkick-ab2c57675fed5342f90417c5c25204db9a59234cdf43f0bfabae8d7937401f49.js" defer="defer"></script>

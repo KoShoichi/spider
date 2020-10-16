@@ -22,7 +22,7 @@
     <link rel="canonical" href="https://xn--vckya7nx51ik9ay55a3l3a.com/companies/1333">
 
     <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="1zWAf+58OxaI4m0jrAd+nHWTJUwUampmuOwQPPfuLhS2CtVhLmkp4/ZeQGEns8Cyml3fSN220NRHgF8QCY5r0g==" />
+<meta name="csrf-token" content="QfyDgnzXpIc158xJOLhRjzm2iW1Yf0dh/WZgmC4D4SZvunqc+6b33cfDw0xQSn1ZwxhlhA4hRZ/cI7cBhb0jaQ==" />
 
     <script src="//www.google.com/jsapi" defer="defer"></script>
 <script src="//8weld9rqz5.user-space.cdn.idcfcloud.net/assets/chartkick-ab2c57675fed5342f90417c5c25204db9a59234cdf43f0bfabae8d7937401f49.js" defer="defer"></script>
