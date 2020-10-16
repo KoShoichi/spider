@@ -1,0 +1,1090 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+    <title>日本水産株式会社の企業情報 | 上場企業サーチ</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="東証一部に上場する日本水産株式会社に関する企業情報です。日本水産株式会社は水産・農林業業界に属しています。">  
+    <meta name="keywords" content="日本水産株式会社,上場企業,企業情報,企業検索,企業一覧">
+    <meta name="robots" content="all">
+    <meta property="og:type" content="company">
+    <meta property="og:title" content="日本水産株式会社の企業情報">
+    <meta property="og:description" content="東証一部に上場する日本水産株式会社に関する企業情報です。日本水産株式会社は水産・農林業業界に属しています。">
+    <meta property="og:site_name" content="上場企業サーチ.com">
+    <meta property="og:url" content="https://xn--vckya7nx51ik9ay55a3l3a.com/companies/1332" >
+    <meta property="og:locale" content="ja_JP" >
+    <meta property="fb:app_id" content="1482277912084021">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="日本水産株式会社の企業情報 | 上場企業サーチ">
+    <meta name="twitter:description" content="東証一部に上場する日本水産株式会社に関する企業情報です。日本水産株式会社は水産・農林業業界に属しています。">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="canonical" href="https://xn--vckya7nx51ik9ay55a3l3a.com/companies/1332">
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="E6WrLKvqTNetcMZYwqkQX+3RsYLQz31qc2cZOT71ftuSyxRfuNps+BBowFzpth6CEIVBB1tpMe+onxSN+owIaA==" />
+
+    <script src="//www.google.com/jsapi" defer="defer"></script>
+<script src="//8weld9rqz5.user-space.cdn.idcfcloud.net/assets/chartkick-ab2c57675fed5342f90417c5c25204db9a59234cdf43f0bfabae8d7937401f49.js" defer="defer"></script>
+	<script src="//8weld9rqz5.user-space.cdn.idcfcloud.net/assets/application-4e057f6dd7af034b0ac3a7435587c61ece000389174bb49ca6c97ff0dad34a03.js" defer="defer"></script>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-59825887-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	
+	  gtag('config', 'UA-59825887-1');
+	</script>
+
+    <!-- For third-generation iPad with high-resolution Retina display: -->
+    <!-- Size should be 144 x 144 pixels -->
+    <link rel="apple-touch-icon-precomposed" type="image/png" href="//xn--vckya7nx51ik9ay55a3l3a.com/apple-touch-icon-144x144-precomposed.png" sizes="144x144" />
+
+    <!-- For iPhone with high-resolution Retina display: -->
+    <!-- Size should be 114 x 114 pixels -->
+    <link rel="apple-touch-icon-precomposed" type="image/png" href="//xn--vckya7nx51ik9ay55a3l3a.com/apple-touch-icon-114x114-precomposed.png" sizes="114x114" />
+
+    <!-- For first- and second-generation iPad: -->
+    <!-- Size should be 72 x 72 pixels -->
+    <link rel="apple-touch-icon-precomposed" type="image/png" href="//xn--vckya7nx51ik9ay55a3l3a.com/apple-touch-icon-72x72-precomposed.png" sizes="72x72" />
+
+    <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+    <!-- Size should be 57 x 57 pixels -->
+    <link rel="apple-touch-icon-precomposed" type="image/png" href="//xn--vckya7nx51ik9ay55a3l3a.com/apple-touch-icon-precomposed.png" />
+
+    <!-- For all other devices -->
+    <!-- Size should be 32 x 32 pixels -->
+    <link rel="shortcut icon" type="image/x-icon" href="//xn--vckya7nx51ik9ay55a3l3a.com/favicon.ico" />
+
+  	<meta name="google-site-verification" content="TLib_ha61uqIUAIeRzNerZJ7T1MmncZzm-eDv8DK37M" />
+	
+
+    <link rel="stylesheet" media="all" href="//8weld9rqz5.user-space.cdn.idcfcloud.net/assets/application-9892a534d1f01e565eb832cba0d031d37723a0ab10796b141cf17a8daea856fc.css" defer="defer" />
+	</head>
+	<body class="companies index container">
+		<header>
+
+			<nav class="navbar navbar-expand-lg navbar-light bg-light">
+			  <a class="navbar-brand" href="/"><img alt="上場企業サーチ" src="//8weld9rqz5.user-space.cdn.idcfcloud.net/images/logo.png" /></a>
+			  <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#Navber" aria-controls="Navber" aria-expanded="false" aria-label="ナビゲーションの切替">
+			    <span class="navbar-toggler-icon"></span>
+			  </button>
+			
+			  <div class="collapse navbar-collapse" id="Navber">
+			    <ul class="navbar-nav mr-auto">
+			    </ul>
+				<form class="form-inline my-4 my-lg-0" role="search" action="/searches/result" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />  								
+					<input type="text" name="search_query" id="search_query" class="form-control mr-sm-4" placeholder="検索..." aria-label="検索..." />  
+					<div class=""><button type="submit" class="btn btn-outline-success my-4 my-sm-0"><i class="fa fa-search">検索</i></button></div>
+</form>
+			  </div><!-- /.navbar-collapse -->
+			</nav>
+			<h1 id="headline">日本水産株式会社の企業情報</h1>
+		</header>
+		<!--main-->
+		<div class="" id="main">
+			<div id="crumbs" class="panel"><a class="" href="/">上場企業サーチ</a> &raquo; <a class="" href="/markets/tse_all">東京証券取引所</a> &raquo; <a class="" href="/markets/tse1st">東証一部</a> &raquo; <a class="" href="1332">日本水産株式会社</a></div>
+			<div class="company-show">
+	<div class="company-name">
+		<h2>
+			1332 日本水産株式会社<br />
+			<small>Nippon Suisan Kaisha, Ltd.</small>
+		</h2>
+	</div>
+	<div class="company-body row">
+		<div class="col-12 col-lg-4">
+			<!--card start-->
+			<div class="company-block">
+				<div class="company-block-header">
+					<h3><i class="fa fa-info-circle fa-fw">&nbsp;</i>基本情報</h3>
+				</div>
+				<div class="company-block-body">
+					<dl>
+						<dt class="companies_title">上場市場</dt>
+						<dd class="companies_data">
+							<table class="table table-sm">
+									<tr>
+										<th scope="col" class="text-nowrap font-weight-bold">上場市場</th>
+										<th scope="col" class="text-nowrap font-weight-bold">上場日</th>
+									</tr>
+								<tr>
+									<td><a href="/markets/tse1st">東証一部</a></td>
+									<td>1949年05月14日</td>
+								</tr>
+							</table>
+
+						</dd>
+						<dt class="companies_title">業種</dt>
+						<dd class="companies_data"><a href="/industries/0050">水産・農林業</a></dd>
+						<dt class="companies_title">EDINETコード</dt>
+						<dd class="companies_data">E00014</dd>
+						<dt class="companies_title">法人番号</dt>
+						<dd class="companies_data">
+							1010001016860
+							<div>
+							<a target="_blank" class="btn btn-primary btn-sm" rel="nofollow" href="https://scdb.jp/corporations/1010001016860"><small>日本水産株式会社の法人情報を確認する</small></a>
+							<br>
+							<small>※姉妹サイトSCDB JAPANに移動します</small>
+							</div>
+						</dd>
+						<dt class="companies_title">本店所在地&nbsp;<i class="icon-question-sign" role="" rel="popover" data-html="true" data-content="法人の商業登記簿に本店として登記されている住所であり営業上の本社とは異なる場合があります"></i></dt>
+						<dd class="companies_data">
+							<div id="address2">
+								[<a href="/areas/tokyo">東京都</a>]
+								〒105-0003
+								東京都港区西新橋１丁目３番１号
+							</div>
+						</dd>
+						<dt class="companies_title">決算日</dt>
+						<dd class="companies_data">3月31日</dd>
+						<dt class="companies_title">コーポレートサイトURL</dt>
+						<dd class="companies_data"><a target="_blank" rel="nofollow" href="http://www.nissui.co.jp/">http://www.nissui.co.jp/</a></dd>
+						<dt class="companies_title">時価総額</dt>
+						<dd class="companies_data">148,716百万円</dd>
+					</dl>
+				</div>
+			</div>
+			<!--card end-->
+			<!--card start-->
+			<div class="company-block">
+				<div class="company-block-header">
+					<h3><i class="fa fa-info-circle fa-fw">&nbsp;</i>適時開示情報</h3>
+				</div>
+				<table class="table" id="tdnet-disclosure">
+					<tr>
+						<th>日時</th>
+						<th>表題</th>
+					</tr>
+				</table>
+			</div>
+			<!--card end-->
+		</div>	
+
+		<div class="col-12 col-lg-4">
+			<!--card start-->
+			<div class="company-block">
+				<div class="company-block-header">
+					<h3><i class="fa fa-balance-scale fa-fw">&nbsp;</i>会計基礎情報</h3>
+				</div>
+				<div class="company-block-body">
+					<dl>
+						<dt class="companies_title">最新開示期間</dt>
+						<dd class="companies_data">2021年03月期 第１四半期</dd>
+						<dt class="companies_title">採用している会計基準</dt>
+						<dd class="companies_data">
+							<a href="/analyses/gaap_adopted/%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96">日本基準</a>
+						</dd>
+						<dt class="companies_title">会計監査人</dt>
+						<dd class="companies_data">
+							<a href="/analyses/auditor_clients/%EF%BC%A5%EF%BC%B9%E6%96%B0%E6%97%A5%E6%9C%AC%E6%9C%89%E9%99%90%E8%B2%AC%E4%BB%BB%E7%9B%A3%E6%9F%BB%E6%B3%95%E4%BA%BA">ＥＹ新日本有限責任監査法人</a>
+						</dd>
+						<dt class="companies_title">資本金</dt>
+						<dd class="companies_data">30,685百万円</dd>
+						<dt class="companies_title">連結財務諸表の作成有無</dt>
+						<dd class="companies_data">連結財務諸表の作成あり（連結開示）</dd>
+						<dt class="companies_title">特定事業規則の適用（連結）</dt>
+						<dd class="companies_data">
+							別記事業規則の適用なし
+						</dd>
+						<dt class="companies_title">特定事業規則の適用（単体）</dt>
+						<dd class="companies_data">
+							なし
+						</dd>
+					</dl>
+				</div>
+			</div>
+			<!--card end-->
+			<!--card start-->
+			<div class="company-block">
+				<div class="company-block-header">
+					<h3><i class="fas fa-users fa-fw">&nbsp;</i>大株主</h3>
+				</div>
+				<div class="company-block-body">
+					<table class="table">
+						<tr>
+							<th class="col-xs-2">順位</th>
+							<th class="col-xs-7">株主名</th>
+							<th class="col-xs-3">持株比率</th>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>日本マスタートラスト信託銀行株式会社（信託口）</td>
+							<td class="right">13.01％</td>
+						</tr>
+						<tr>
+							<td>2</td>
+							<td>日本トラスティ・サービス信託銀行株式会社(信託口)</td>
+							<td class="right">9.08％</td>
+						</tr>
+						<tr>
+							<td>3</td>
+							<td>日本トラスティ・サービス信託銀行株式会社（信託口９）</td>
+							<td class="right">3.85％</td>
+						</tr>
+						<tr>
+							<td>4</td>
+							<td>株式会社みずほ銀行</td>
+							<td class="right">3.42％</td>
+						</tr>
+						<tr>
+							<td>5</td>
+							<td>持田製薬株式会社</td>
+							<td class="right">2.57％</td>
+						</tr>
+						<tr>
+							<td>6</td>
+							<td>日本トラスティ・サービス信託銀行株式会社（信託口５）</td>
+							<td class="right">1.77％</td>
+						</tr>
+						<tr>
+							<td>7</td>
+							<td>ステートストリートバンクアンドトラストカンパニー５０５００１(常任代理人株式会社みずほ銀行決済営部）</td>
+							<td class="right">1.55％</td>
+						</tr>
+						<tr>
+							<td>8</td>
+							<td>ジェーピーモルガンチェースバンク３８５１５１       (常任代理人株式会社みずほ銀行決済営業部）</td>
+							<td class="right">1.48％</td>
+						</tr>
+						<tr>
+							<td>9</td>
+							<td>野村信託銀行株式会社（投信口）</td>
+							<td class="right">1.48％</td>
+						</tr>
+						<tr>
+							<td>10</td>
+							<td>中央魚類株式会社</td>
+							<td class="right">1.33％</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+			<!--card end-->
+		</div>
+		<div class="col-12 col-lg-4">
+			<!--card start-->
+			<div class="company-block">
+				<div class="company-block-header">
+					<h3><i class="fa fa-users fa-fw">&nbsp;</i>従業員関連情報</h3>
+				</div>
+				<div class="company-block-body">
+					<dl>
+						<dt class="companies_title">従業員数</dt>
+						<dd class="companies_data">1,233人</dd>
+						<dt class="companies_title">平均年齢</dt>
+						<dd class="companies_data">42.62歳</dd>
+						<dt class="companies_title">平均勤続年数</dt>
+						<dd class="companies_data">16.7年</dd>
+						<dt class="companies_title">年間給与</dt>
+						<dd class="companies_data">799万円</dd>
+					</dl>
+				</div>
+			</div>
+			<!--card end-->
+			<!--card start-->
+			<div class="company-block">
+				<div class="company-block-header">
+					<h3><i class="fa fa-users fa-fw">&nbsp;</i>監査報酬情報</h3>
+				</div>
+				<div class="company-block-body">
+					<dl>
+						<dt class="companies_title">監査証明業務に基づく報酬</dt>
+						<dd class="companies_data">131百万円</dd>
+						<dt class="companies_title">非監査証明業務に基づく報酬</dt>
+						<dd class="companies_data">6百万円</dd>
+					</dl>
+				</div>
+			</div>
+			<!--card end-->
+			<!--card start-->
+			<div class="company-block">
+				<div class="company-block-header">
+					<h3><i class="fas fa-address-book">&nbsp;</i>出資先上場企業</h3>
+				</div>
+				<div class="company-block-body">
+					<table class="table">
+						<tr>
+							<th>会社名</th>
+							<th>直接持分比率</th>
+						</tr>
+						<tr>
+							<td><a href="/companies/4550">日水製薬株式会社</a></td>
+							<td class="right">54.05%</td>
+						</tr>
+						<tr>
+							<td><a href="/companies/7538">株式会社大水</a></td>
+							<td class="right">31.35%</td>
+						</tr>
+						<tr>
+							<td><a href="/companies/1352">株式会社ホウスイ</a></td>
+							<td class="right">27.80%</td>
+						</tr>
+						<tr>
+							<td><a href="/companies/7443">横浜魚類株式会社</a></td>
+							<td class="right">19.80%</td>
+						</tr>
+						<tr>
+							<td><a href="/companies/8145">中部水産株式会社</a></td>
+							<td class="right">13.50%</td>
+						</tr>
+						<tr>
+							<td><a href="/companies/8030">中央魚類株式会社</a></td>
+							<td class="right">12.01%</td>
+						</tr>
+						<tr>
+							<td><a href="/companies/8091">ニチモウ株式会社</a></td>
+							<td class="right">3.48%</td>
+						</tr>
+						<tr>
+							<td><a href="/companies/4534">持田製薬株式会社</a></td>
+							<td class="right">3.10%</td>
+						</tr>
+						<tr>
+							<td><a href="/companies/7451">三菱食品株式会社</a></td>
+							<td class="right">1.41%</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+			<!--card end-->
+		</div>	
+
+		<div class="col-12 col-md-12 col-sm-12">
+			<div class="ad">
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6707934794714728"
+     data-ad-slot="7150753764"
+     data-ad-format="auto"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>	
+</div>
+
+			<!--card start-->
+			<div class="company-block">
+				<div class="company-block-header">
+					<h3><i class="fas fa-chart-line fa-fw">&nbsp;</i>企業業績</h3>
+				</div>
+				<div class="company-block-body">
+					<div class="">
+						<table class="table table-responsive">
+								<thead>
+									<tr>
+											<th class="col-xs-3 col-sm-3 col-md-3"></th>
+											<th class="col-xs-1 col-sm-1 col-md-1"></th>
+											<th class="col-xs-1 col-sm-1 col-md-1 right">2016-03-31</th>
+											<th class="col-xs-1 col-sm-1 col-md-1 right">2017-03-31</th>
+											<th class="col-xs-1 col-sm-1 col-md-1 right">2018-03-31</th>
+											<th class="col-xs-1 col-sm-1 col-md-1 right">2019-03-31</th>
+											<th class="col-xs-1 col-sm-1 col-md-1 right">2020-03-31</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">売上高</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">357,656</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">361,344</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">379,515</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">396,976</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">390,977</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">経常利益又は経常損失（△）</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">8,575</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">10,841</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">6,557</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">6,646</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">8,499</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">12,307</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">14,216</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">17,234</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">15,379</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">14,768</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">包括利益</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">6,029</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">15,052</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">19,506</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">12,289</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">9,963</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">純資産額</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">61,061</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">81,709</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">87,897</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">89,862</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">90,818</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">総資産額</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">293,235</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">301,609</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">318,237</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">329,359</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">345,274</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">営業活動によるキャッシュ・フロー</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">37,395</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">30,179</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">28,325</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">24,693</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">18,786</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">投資活動によるキャッシュ・フロー</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">17,051</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">7,445</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">21,540</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">16,803</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">29,446</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">財務活動によるキャッシュ・フロー</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">23,141</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">11,517</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">8,156</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">15,956</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">25,942</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">現金及び現金同等物の残高</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">14,056</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">25,181</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">24,318</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">16,165</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">31,647</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">当期純利益又は当期純損失（△）</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">7,119</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">7,924</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">7,977</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">5,480</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">5,438</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">資本金</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">23,729</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">30,685</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">30,685</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">30,685</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">30,685</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">平均年間給与、提出会社の状況、従業員の状況</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">7,994,572</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">設備投資額、設備投資等の概要</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">26,530</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">27,352</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">監査証明業務に基づく報酬－提出会社、監査公認会計士等</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">79</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">79</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">非監査業務に基づく報酬－提出会社、監査公認会計士等</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">5</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">3</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">監査証明業務に基づく報酬－連結子会社、監査公認会計士等</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">52</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">51</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">非監査業務に基づく報酬－連結子会社、監査公認会計士等</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">0</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">3</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">監査証明業務に基づく報酬－計、監査公認会計士等</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">131</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">131</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">非監査業務に基づく報酬－計、監査公認会計士等</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">5</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">6</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">監査証明業務に基づく報酬－提出会社、ネットワークファーム</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">0</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">0</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">非監査業務に基づく報酬－提出会社、ネットワークファーム</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">0</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">0</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">監査証明業務に基づく報酬－連結子会社、ネットワークファーム</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">186</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">193</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">非監査業務に基づく報酬－連結子会社、ネットワークファーム</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">44</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">53</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">監査証明業務に基づく報酬－計、ネットワークファーム</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">186</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">193</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">非監査業務に基づく報酬－計、ネットワークファーム</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">44</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">53</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">貸借対照表計上額、非上場株式、保有目的が純投資目的以外の目的である投資株式、提出会社</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">1,595</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">貸借対照表計上額、非上場株式以外の株式、保有目的が純投資目的以外の目的である投資株式、提出会社</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">28,767</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">株式数の増加に係る取得価額の合計額、非上場株式、保有目的が純投資目的以外の目的である投資株式、提出会社</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">23</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">株式数の増加に係る取得価額の合計額、非上場株式以外の株式、保有目的が純投資目的以外の目的である投資株式、提出会社</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">244</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">株式数の減少に係る売却価額の合計額、非上場株式、保有目的が純投資目的以外の目的である投資株式、提出会社</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">47</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">株式数の減少に係る売却価額の合計額、非上場株式以外の株式、保有目的が純投資目的以外の目的である投資株式、提出会社</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">55</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">たな卸資産帳簿価額切下額</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">1,067</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">744</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">外部顧客への売上高</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">712,111</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">690,016</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">セグメント間の内部売上高又は振替高</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">0</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">0</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">減価償却費、セグメント情報</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">18,272</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">19,450</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">持分法投資損失（△）</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">2,751</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">2,820</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">持分法適用会社への投資額</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">31,824</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">33,504</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">有形固定資産及び無形固定資産の増加額</td>
+										<td class="col-xs-1 col-sm-1 col-md-1">(百万円)</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">26,530</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">27,352</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">１株当たり純資産額</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">220.91</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">262.21</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">282.08</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">288.69</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">291.77</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">１株当たり当期純利益又は当期純損失（△）</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">25.76</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">26.76</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">25.6</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">17.59</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">17.47</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">潜在株式調整後1株当たり当期純利益</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">0</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">0</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">0</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">0</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">0</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">１株当たり配当額</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">5.0</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">6.0</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">8.0</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">8.0</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">8.5</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">１株当たり中間配当額</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">2.0</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">2.5</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">4.0</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">4.0</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">4.0</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">自己資本比率</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">20.82</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">27.09</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">27.62</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">27.28</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">26.3</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">自己資本利益率</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">12.07</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">11.1</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">9.41</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">6.17</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">6.02</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">株価収益率</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">21.24</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">20.74</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">21.56</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">48.04</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">27.36</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">従業員数</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">1,116</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">1,142</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">1,158</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">1,203</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">1,233</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">平均臨時雇用人員</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">1,257</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">1,183</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">1,133</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">1,149</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">1,152</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">配当性向</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">19.4</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">22.4</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">31.3</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">45.5</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">48.6</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">株主総利回り</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">151.2</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">155.1</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">156.4</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">238.9</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">140.7</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">株価指数における総利回り</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">89.2</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">102.3</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">118.5</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">112.5</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">101.8</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">平均年齢（年）、提出会社の状況、従業員の状況</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">42.62</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">平均勤続年数（年）、提出会社の状況、従業員の状況</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">16.7</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">発行済株式（自己株式を除く。）の総数に対する所有株式数の割合</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">39.54</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">議決権の数（個）、発行済株式、議決権の状況</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">3,115,754</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">発行済株式総数に対する所有株式数の割合（％）、自己株式等</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">0.38</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">銘柄数、非上場株式、保有目的が純投資目的以外の目的である投資株式、提出会社</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">47</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">銘柄数、非上場株式以外の株式、保有目的が純投資目的以外の目的である投資株式、提出会社</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">63</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">株式数が増加した銘柄数、非上場株式、保有目的が純投資目的以外の目的である投資株式、提出会社</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">2</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">株式数が増加した銘柄数、非上場株式以外の株式、保有目的が純投資目的以外の目的である投資株式、提出会社</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">9</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">株式数が減少した銘柄数、非上場株式、保有目的が純投資目的以外の目的である投資株式、提出会社</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">2</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">株式数が減少した銘柄数、非上場株式以外の株式、保有目的が純投資目的以外の目的である投資株式、提出会社</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">3</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">連結子会社の数</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">65</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">持分法を適用した関連会社の数</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">25</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">発行済株式総数（普通株式）</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">277,210,277</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">312,430,277</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">312,430,277</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">312,430,277</td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">312,430,277</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">所有株式数</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">123,196</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">株式数（株）、発行済株式、議決権の状況</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">312,430,277</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">自己名義所有株式数（株）、自己株式等</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">1,203,700</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">他人名義所有株式数（株）、自己株式等</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">0</td>
+									</tr>
+									<tr>
+										<td class="col-xs-3 col-sm-3 col-md-3">所有株式数の合計（株）、自己株式等</td>
+										<td class="col-xs-1 col-sm-1 col-md-1"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right"></td>
+										<td class="col-xs-1 col-sm-1 col-md-1 right">1,203,700</td>
+									</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>		
+			<!--card end-->
+			<div class="ad">
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6707934794714728"
+     data-ad-slot="7150753764"
+     data-ad-format="auto"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>	
+</div>
+
+			<div class="ad">
+<ins class="adsbygoogle"
+	<ins class="adsbygoogle"
+	     style="display:block"
+	     data-ad-format="autorelaxed"
+	     data-ad-client="ca-pub-6707934794714728"
+	     data-ad-slot="9584374162"></ins>
+	<script>
+	     (adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+
+		</div>	
+		
+	</div>
+</div>
+<script type="application/ld+json">
+[{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://xn--vckya7nx51ik9ay55a3l3a.com/areas/kanto","name":"関東地方"}},{"@type":"ListItem","position":2,"item":{"@id":"https://xn--vckya7nx51ik9ay55a3l3a.com/areas/tokyo","name":"東京都"}}]},{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://xn--vckya7nx51ik9ay55a3l3a.com/markets/tse_all","name":"東京証券取引所"}},{"@type":"ListItem","position":2,"item":{"@id":"https://xn--vckya7nx51ik9ay55a3l3a.com/markets/tse1st","name":"東証一部"}}]}]
+</script>
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "Organization",
+	"name": "日本水産株式会社",
+	"address":{
+		"@type": "PostalAddress",
+		"addressLocality": "港区西新橋１丁目３番１号",
+		"addressRegion": "東京都",
+		"postalCode": "105-0003",
+		"addressCountry": "日本"
+	}
+	
+}
+</script>
+
+		</div>
+		<!--/main-->
+		<hr>
+		<footer>
+			<div class="text-center"><p>&copy; 上場企業サーチ 2014 - 2020</p></div>			
+		</footer>
+		<hr>
+		<script>
+			(function(a,d){function b(){if(!1===e){e=!0;a.removeEventListener("scroll",b);a.removeEventListener("mousemove",b);a.removeEventListener("mousedown",b);a.removeEventListener("touchstart",b);a.removeEventListener("keydown",b);var c=d.createElement("script");c.type="text/javascript";c.async=!0;c.dataset.adClient="ca-pub-6707934794714728";c.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";var f=d.getElementsByTagName("script")[0];f.parentNode.insertBefore(c,f)}}var e=!1;a.addEventListener("scroll",
+			b);a.addEventListener("mousemove",b);a.addEventListener("mousedown",b);a.addEventListener("touchstart",b);a.addEventListener("keydown",b);a.addEventListener("load",function(){a.pageYOffset&&b()})})(window,document);
+		</script>		
+	</body>
+</html>
+
