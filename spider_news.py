@@ -1,8 +1,12 @@
 # _*_ coding: utf-8 _*_
 import feedparser
-import requests
+import time
+import const
 from newspaper import Article
 from newspaper import Config
+
+const.NUM_OF_COM = 6 #number of companies
+const.NUM_OF_NEWS = 15 #number of news for each company
 
 #to standard code
 def code_parse(buf):
@@ -57,16 +61,26 @@ def read_company_news(filename):
 def output_table4(company_name,stock_code,startid):
     title = get_title(code_parse(company_name))
     link = get_link(code_parse(company_name))
+    member_filter = "有料会員の方のみご利用になれます"
+    ntotal = 0 #see how many news cannot be extracted for a company
 
     with open("table4.csv","a",encoding="utf_8_sig") as f:
-        for i in range(10): #here number like 10 means 10 news for each company
+        for i in range(const.NUM_OF_NEWS): #here NUM_OF_NEWS means 10 news for each company
             article = parse_article(link[i])
+            if (member_filter in article) or (article==""):
+                article = "None"
+            if article=="None":
+                ntotal += 1
             print(startid,title[i].replace(",",""),link[i].replace(",",""),article.replace("\n","").replace(",","").strip(),company_name,stock_code,sep=",",file=f)
             startid += 1
 
+    # see how many news cannot be extracted for a company
+    print("number of news cannot be extract for \"%s\" is: %d" % (company_name,ntotal))
+
 if __name__ ==  "__main__":
+    start_time = time.time()
     clist = read_company_news("companylist_news.txt")
-    table4_colunm = ["newsid","title","link","article","companyname","stockcode"]
+    table4_colunm = ["newsid","title","link","article","keywords","stockcode"]
     size_colunm = len(table4_colunm)
 
     with open("table4.csv","w",encoding="utf_8_sig") as f:
@@ -75,6 +89,8 @@ if __name__ ==  "__main__":
         print(table4_colunm[size_colunm-1],file=f)
 
     sid = 1 #news id start from 1
-    for i in range(6): #here number like 6 means 6 companies
+    for i in range(const.NUM_OF_COM): #here NUM_OF_COM means 6 companies
         output_table4(clist[i][1],clist[i][0],sid)
-        sid += 10
+        sid += const.NUM_OF_NEWS #here NUM_OF_NEWS means 10 news for each company
+
+    print("running time is: %s seconds" % (time.time()-start_time))
