@@ -5,7 +5,7 @@ import const
 from newspaper import Article
 from newspaper import Config
 
-const.NUM_OF_COM = 6 #number of companies
+const.NUM_OF_COM = 3 #number of companies
 const.NUM_OF_NEWS = 15 #number of news for each company
 
 #to standard code
@@ -54,24 +54,28 @@ def read_company_news(filename):
         for line in f:
             temp = line.split()
             clist[i][0] = temp[0]
-            clist[i][1] = temp[1]
+            clist[i][1] = ""
+            for j in range(1,len(temp)-1):
+                clist[i][1] += temp[j]
+                clist[i][1] += "+"
+            clist[i][1] += temp[len(temp)-1]
             i += 1
     return clist
 
 def output_table4(company_name,stock_code,startid):
     title = get_title(code_parse(company_name))
     link = get_link(code_parse(company_name))
-    member_filter = "有料会員の方のみご利用になれます"
+    member_filter = "有料会員"
     ntotal = 0 #see how many news cannot be extracted for a company
 
-    with open("table4.csv","a",encoding="utf_8_sig") as f:
+    with open("table4.csv","a",encoding="utf-8") as f:
         for i in range(const.NUM_OF_NEWS): #here NUM_OF_NEWS means 10 news for each company
             article = parse_article(link[i])
             if (member_filter in article) or (article==""):
                 article = "None"
             if article=="None":
                 ntotal += 1
-            print(startid,title[i].replace(",",""),link[i].replace(",",""),article.replace("\n","").replace(",","").strip(),company_name,stock_code,sep=",",file=f)
+            print(startid,title[i].replace(",",""),link[i].replace(",",""),article.replace("\n","").replace(",","").strip().replace("\"","”"),company_name.replace("+"," "),stock_code,sep=",",file=f)
             startid += 1
 
     # see how many news cannot be extracted for a company
@@ -83,7 +87,7 @@ if __name__ ==  "__main__":
     table4_colunm = ["newsid","title","link","article","keywords","stockcode"]
     size_colunm = len(table4_colunm)
 
-    with open("table4.csv","w",encoding="utf_8_sig") as f:
+    with open("table4.csv","w",encoding="utf-8") as f:
         for i in range(size_colunm-1):
             print(table4_colunm[i],end=",",file=f)
         print(table4_colunm[size_colunm-1],file=f)

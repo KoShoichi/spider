@@ -1,13 +1,6 @@
-class Enemy:
-    def __init__(self, x):
-        self.energy = x
+f = open("companylist_news.txt","r",encoding="utf-8")
 
-    def get_energy(self):
-        print(self.energy)
+for line in f:
+    print(line,end="")
 
-
-jason = Enemy(5)
-sandy = Enemy(18)
-
-jason.get_energy()
-sandy.get_energy()
+f.close()
